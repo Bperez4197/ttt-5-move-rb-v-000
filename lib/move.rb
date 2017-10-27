@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-input = gets.strip .to_i - 1
+input = gets.strip = .to_i - 1
 def input_to_index(input)
   puts #{input}
 end
