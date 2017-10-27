@@ -8,9 +8,6 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-s = gets.strip
-index = gets.strip
-value = "X" or "O"
 def input_to_index(user_input)
   s = user_input.to_i
   s - 1
